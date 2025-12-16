@@ -5,7 +5,7 @@ console.log(aldeanos[3]);
 //2
 aldeanos.push("Cervasio");
 //3
-aldeanos[0] = "Bambian";
+aldeanos[0] = "Bambina";
 //4
 aldeanos.reverse();
 //5
