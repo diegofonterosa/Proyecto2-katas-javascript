@@ -11,6 +11,7 @@ Proyecto2-katas-javascript/
 ├── ejercicios-dom/                     # Ejercicios para manipular el DOM
 ├── ejercicios-es6-asincronia/          # Prácticas de ES6, Promesas, async/await
 └── README.md                           # Documentación del proyecto
+
 🚀 Tecnologías
 
 Este proyecto se desarrolla utilizando:
