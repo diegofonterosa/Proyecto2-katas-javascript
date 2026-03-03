@@ -1,63 +1,65 @@
-🧠 Proyecto 2 — Katas JavaScript
+# 🧠 Proyecto 2 — Katas JavaScript
 
-Este repositorio contiene una colección de katas y ejercicios en JavaScript, organizados por temas y niveles, desarrollados como parte de un reto / proyecto formativo para practicar habilidades fundamentales del lenguaje y del navegador.
+Este repositorio contiene una colección de katas y ejercicios en JavaScript organizados por temas y niveles.  
+Forma parte de un proyecto formativo para reforzar fundamentos del lenguaje y la manipulación del DOM.
 
-🗂 Estructura del proyecto
+---
 
-El contenido está organizado en carpetas según el área de práctica:
+## 📂 Estructura del proyecto
+
 
 Proyecto2-katas-javascript/
-├── ejercicios-basicos-avanzados/      # Katas de sintaxis, lógica y fundamentos
-├── ejercicios-dom/                     # Ejercicios para manipular el DOM
-├── ejercicios-es6-asincronia/          # Prácticas de ES6, Promesas, async/await
-└── README.md                           # Documentación del proyecto
+│
+├── ejercicios-basicos-avanzados/
+├── ejercicios-dom/
+├── ejercicios-es6-asincronia/
+└── README.md
 
-🚀 Tecnologías
 
-Este proyecto se desarrolla utilizando:
+---
 
-JavaScript moderno (ES6+)
+## 🚀 Tecnologías utilizadas
 
-HTML para las estructuras de ejercicios
+- JavaScript (ES6+)
+- HTML5
+- Navegador web
+- (Opcional) Node.js
 
-Navegadores web como entorno de ejecución
+---
 
-🎯 Objetivo
+## 🎯 Objetivos
 
-El objetivo de este repositorio es:
+- Reforzar conceptos fundamentales de JavaScript.
+- Practicar lógica de programación.
+- Aprender manipulación del DOM.
+- Trabajar con asincronía (Promises, async/await).
+- Mejorar estructura y organización del código.
 
-Reforzar conceptos clave de JavaScript.
+---
 
-Practicar programación funcional y asincrónica.
+## ▶️ Cómo usar el proyecto
 
-Entender la manipulación del DOM de manera práctica.
+1. Clona el repositorio:
 
-Crear una base sólida para proyectos más grandes en JS.
-
-🧪 Cómo usar este repositorio
-
-Clona el repositorio:
-
+```bash
 git clone https://github.com/diegofonterosa/Proyecto2-katas-javascript.git
 
-Abre cualquier archivo .html en tu navegador para probar los ejercicios.
+Accede al directorio:
 
-Para ejercicios solo de JavaScript, puedes ejecutar con Node.js o desde la consola del navegador.
+cd Proyecto2-katas-javascript
 
-🧩 Buenas prácticas
+Abre los archivos .html en el navegador
+o ejecuta los .js con Node:
+
+node archivo.js
+📌 Notas
 
 Cada carpeta contiene ejercicios independientes.
 
-Trata de resolver cada kata antes de ver la solución.
+Se recomienda intentar resolver cada ejercicio antes de revisar soluciones.
 
-Comenta tu código con intención didáctica.
+Código estructurado con enfoque didáctico.
 
-👨‍💻 Contribuciones
+👨‍💻 Autor
 
-Si quieres aportar mejoras (nuevas katas, soluciones, tests, etc.):
-
-Haz un fork de este repositorio.
-
-Crea una rama con tu mejora (feature/nueva-kata).
-
-Abre un pull request describiendo tus cambios.
+Diego Pérez Fonterosa
